@@ -17,7 +17,7 @@
         
         <label for="salesforce">
             <input type="radio" id="salesforce" name="product" checked onClick="disabledbtnproceed()"/>
-            Salesforce @100
+            salesforce @100
         </label> 
         
         <br/>
@@ -39,12 +39,12 @@
             
             <label for="total">
             Total
-            <input type="hidden" id="total" name="total" value="0.00" readonly/>
+            <input type="text" id="total" name="total" value="0.00" readonly/>
             <label/>
             
         <br/>
         
-        <buttontype="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
+        <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
         
         </form>
         

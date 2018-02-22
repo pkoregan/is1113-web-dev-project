@@ -11,6 +11,7 @@ session_start();
         
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script type="text/javascript"src="ebus2_validation.js"></script>
     </head>
     
     <body>
@@ -28,11 +29,9 @@ session_start();
                 
             </form>
             
-            <br />
+            <br/>
             
-            <button onClick="validateDetails()"> Validate </button>
-        
-        <script type="text/javascript" src="ebus2_validator.js"></script>
+            <button onClick="validateDetails()">Validate</button>
         
         <?php
         // Set session variables
