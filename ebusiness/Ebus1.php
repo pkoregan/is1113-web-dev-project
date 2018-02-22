@@ -44,12 +44,13 @@
             
         <br/>
         
-        <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
+        <button onClick="calcSub()">Calculate Cost</button>
         
         </form>
         
         <br/>
-        <button onClick="calcSub()">Calculate Cost</button>
+        
+        <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
         <a role="button" href="Ebus1.php">Clear Choice</a>
         
     </body>

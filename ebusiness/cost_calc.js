@@ -2,10 +2,10 @@
 
 function calcSub(){
     
-    var argSubTotal;
+var argSubTotal;
     
-    if(document.getElementById('salesforce').checked) {
-        argSubTotal = 100;
+if(document.getElementById('salesforce').checked) {
+    argSubTotal = 100;
     }
     else {
         argSubTotal = 300;
