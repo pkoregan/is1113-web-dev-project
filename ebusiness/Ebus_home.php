@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<?php include_once("includes/navbar.html") ?>
+<?php include_once("../includes/navbar.html") ?>
 <br/>
 <html>
     <body bgcolor="#D5D8DC">
     <head>
-        <title>117435886</title>
+        <title>E-Business</title>
         <link rel="stylesheet" href="mystylesheet.css" type="text/css" />
     
-        <h1 class="mainheading">117435886 - IS1113 Project!</h1>
+        <h1 class="mainheading">E-Business</h1>
+        
+        <a href="Ebus1.php">Store</a>
         
         
     </body>

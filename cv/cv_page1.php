@@ -16,11 +16,11 @@
     <body>
         <h1 class="mainheading">Personal Details</h1>
         
-        <p><strong>Name:</strong>Paul O'Regan</p>
-        <p><strong>Address:</strongCork</p>
-        <p><strong>Phone:</strong>99999999</p>
-        <p><strong>Email:</strong>Emial Address</p>
+        <p><strong>Name: </strong>Paul O'Regan</p>
+        <p><strong>Address: </strongCork**********</p>
+        <p><strong>Phone: </strong>**********</p>
+        <p><strong>Email: </strong>*********</p>
         
-        <a href="cv_page2.php" class="btn btn-dark">Next</a></a>
+        <a href="cv_page2.php" class="btn btn-dark">Next</a><a/>
     </body>
 </html>
