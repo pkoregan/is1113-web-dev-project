@@ -1,7 +1,10 @@
 <!DOCTYPE html>
+<?php include_once("../includes/navbar.html") ?>
+<br/>
 <html>
+    <body bgcolor="#D5D8DC">
     <head>
-        <title>Work</title>
+        <title>Personal</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
     
         <!--Adding Bootstrap-->
@@ -11,12 +14,13 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </head>
     <body>
-        <h1 class="mainheading">Work Experience</h1>
+        <h1 class="mainheading">Personal Details</h1>
         
-        <p><strong>Company:</strong>Spar</p>
-        <p><strong>Job Title:</strong>Tills</p>
-        <p><strong>Year:</strong>2015-Present</p>
+        <p><strong>Name:</strong>Paul O'Regan</p>
+        <p><strong>Address:</strongCork</p>
+        <p><strong>Phone:</strong>99999999</p>
+        <p><strong>Email:</strong>Emial Address</p>
         
-        <a href="../homepage.php" class="btn btn-success">Home</a></a>
+        <a href="cv_page2.php" class="btn btn-dark">Next</a></a>
     </body>
 </html>

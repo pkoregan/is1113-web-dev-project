@@ -1,5 +1,8 @@
 <!DOCTYPE html>
+<?php include_once("../includes/navbar.html") ?>
+<br/>
 <html>
+    <body bgcolor="#D5D8DC">
     <head>
         <title>Education</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
@@ -23,6 +26,6 @@
         <p><strong>Course:</strong>Leaving Cert</p>
         <p><strong>Year:</strong>2010-2017</p>
         
-        <a href="cv_page3.html" class="btn btn-dark">Next</a></a>
+        <a href="cv_page3.php" class="btn btn-dark">Next</a></a>
     </body>
 </html>

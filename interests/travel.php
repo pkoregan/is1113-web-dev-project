@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<?php include_once("../includes/navbar.html") ?>
+<br/>
 <html>
     <head>
         <meta charset="utf-8"/>
@@ -30,15 +32,15 @@
     <body>
         
        <div id="pagepiling">
-	<div class="section" id="section1">Google Drive</div>
-	<div class="section" id="section2">iCloud</div>
+	<div class="section" id="section1">London</div>
+	<div class="section" id="section2">Madrid</div>
 	<div class="section" id="section3">
-	    Dropbox
+	    Stay in Ireland
 	    <br/>
-	    <a href="sports.html" class="btn btn-success">Sports</a>
+	    <a href="cloud.php" class="btn btn-success">Cloud Services</a>
 	    <br/>
 	    <br/>
-	    <a href="../homepage.html" class="btn btn-success">Home</a>
+	    <a href="../homepage.php" class="btn btn-success">Home</a>
 	</div>
 </div>
     </body>

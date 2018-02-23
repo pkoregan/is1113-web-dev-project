@@ -4,7 +4,9 @@ session_start();
 ?>
 <!DOCTYPE html>
 <?php include_once("../includes/navbar.html") ?>
+<br/>
 <html>
+    <body bgcolor="#D5D8DC">
     <head>
         
         <title> Enter Details</title>

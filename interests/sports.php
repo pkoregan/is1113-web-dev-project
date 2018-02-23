@@ -1,5 +1,8 @@
 <!DOCTYPE html>
+<?php include_once("../includes/navbar.html") ?>
+<br/>
 <html>
+    <body bgcolor="#D5D8DC">
     <head>
         <title>Sports</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
@@ -15,6 +18,6 @@
         <p><strong>Favourite Sport:</strong>Soccer</p>
         <p><strong>Training:</strong>Tuesday</p>
         
-        <a href="travel.html" class="btn btn-dark">Next</a></a>
+        <a href="travel.php" class="btn btn-dark">Next</a></a>
     </body>
 </html>
