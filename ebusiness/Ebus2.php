@@ -3,6 +3,7 @@
 session_start();
 ?>
 <!DOCTYPE html>
+<?php include_once("../includes/navbar.html") ?>
 <html>
     <head>
         
@@ -35,7 +36,7 @@ session_start();
         
         <?php
         // Set session variables
-        $$_SESSION["total"] = $_POST["total"];
+        $_SESSION["total"] = $_POST["total"];
         ?>
         
         
