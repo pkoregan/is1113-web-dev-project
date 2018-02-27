@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <?php include_once("../includes/navbar.html") ?>
-<br/>
 <html>
     <body bgcolor="#D5D8DC">
-    <head>
+        
+        <head>
         <title>E-Business</title>
         <link rel="stylesheet" href="mystylesheet.css" type="text/css" />
     

@@ -4,9 +4,7 @@ session_start();
 ?>
 <!DOCTYPE html>
 <?php include_once("../includes/navbar.html") ?>
-<br/>
 <html>
-    <body bgcolor="#D5D8DC">
     <head>
         
         <title> Enter Details</title>
@@ -17,7 +15,7 @@ session_start();
         <script type="text/javascript"src="ebus2_validation.js"></script>
     </head>
     
-    <body>
+    <body bgcolor="#D5D8DC">
         
         <h4>Please enter your payment details.</h4>
 
@@ -43,7 +41,5 @@ session_start();
         
         
     </body>
-    
-    
     
 </html>

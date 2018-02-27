@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <?php include_once("../includes/navbar.html") ?>
-<br/>
 <html>
     <head>
         <meta charset="utf-8"/>

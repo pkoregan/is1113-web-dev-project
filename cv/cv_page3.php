@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <?php include_once("../includes/navbar.html") ?>
-<br/>
 <html>
-    <body bgcolor="#D5D8DC">
     <head>
         <title>Work</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
@@ -13,13 +11,13 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </head>
-    <body>
+    <body bgcolor="#D5D8DC">
         <h1 class="mainheading">Work Experience</h1>
         
         <p><strong>Company:</strong>Spar</p>
         <p><strong>Job Title:</strong>Tills</p>
         <p><strong>Year:</strong>2015-Present</p>
         
-        <a href="../homepage.php" class="btn btn-success">Home</a></a>
+        <a href="../homepage.php" class="btn btn-success">Home</a>
     </body>
 </html>

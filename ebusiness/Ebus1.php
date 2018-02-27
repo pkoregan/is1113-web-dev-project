@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <?php include_once("../includes/navbar.html") ?>
-<br/>
 <html>
-    <body bgcolor="#D5D8DC">
     <head>
         <title>Select Product</title>
         
@@ -12,7 +10,7 @@
 
     </head>
     
-    <body>
+    <body bgcolor="#D5D8DC">
         
             <h4>Select a Product</h4>
             
