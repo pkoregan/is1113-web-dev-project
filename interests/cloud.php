@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<?php include_once("../includes/navbar.html") ?>
+
 <html>
+    
     <head>
         <meta charset="utf-8"/>
         <title>Travel</title>
@@ -29,7 +30,7 @@
     
     </head>
     <body>
-        
+       <?php include_once("../includes/navbar.html") ?> 
        <div id="pagepiling">
 	<div class="section" id="section1">Google Drive</div>
 	<div class="section" id="section2">iCloud</div>

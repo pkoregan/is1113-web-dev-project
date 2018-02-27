@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<?php include_once("../includes/navbar.html") ?>
+
 <html>
+    
     <head>
         <title>Education</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
@@ -12,6 +13,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </head>
     <body bgcolor="#D5D8DC">
+        <?php include_once("../includes/navbar.html") ?>
         <h1 class="mainheading">Educational Details</h1>
         
         <p><strong>College:</strong>UCC</p>

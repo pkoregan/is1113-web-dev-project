@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<?php include_once("../includes/navbar.html") ?>
+
 <html>
+    
     <head>
         <title>Sports</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
@@ -11,6 +12,7 @@
     
         </head>
     <body bgcolor="#D5D8DC">
+        <?php include_once("../includes/navbar.html") ?>
         <h1 class="mainheading">Sports</h1>
         
         <p><strong>Favourite Sport:</strong>Soccer</p>

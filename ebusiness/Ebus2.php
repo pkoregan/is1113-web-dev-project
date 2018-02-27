@@ -3,8 +3,9 @@
 session_start();
 ?>
 <!DOCTYPE html>
-<?php include_once("../includes/navbar.html") ?>
+
 <html>
+    
     <head>
         
         <title> Enter Details</title>
@@ -16,6 +17,7 @@ session_start();
     </head>
     
     <body bgcolor="#D5D8DC">
+        <?php include_once("../includes/navbar.html") ?>
         
         <h4>Please enter your payment details.</h4>
 
