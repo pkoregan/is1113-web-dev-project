@@ -20,6 +20,20 @@
             
             <form method="POST" action="Ebus2.php">
               
+              <label for="name">
+                Name:
+                <input type="text" name="name" id="name"/>
+              </label>
+              
+              <br/>
+              
+              <label for="email">
+                E-mail:
+                <input type="text" name="email" id="email"/>
+              </label>
+              
+              <br/>
+              
               <label for="salesforce">
                 <input type="radio" id="salesforce" name="product" checked onClick="disablebtnProceed()"/>
                 SalesForce @ $100
