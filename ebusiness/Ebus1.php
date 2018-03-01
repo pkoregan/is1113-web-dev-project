@@ -42,7 +42,7 @@
               <br/>
               
               <label for="cloud9">
-                <input type="radio" id="cloud9" name="product" checked onClick="disablebtnProceed()"/>
+                <input type="radio" id="cloud9" name="product" onClick="disablebtnProceed()"/>
                 Cloud 9 @ $200
               </label>
               
@@ -70,23 +70,23 @@
               
               <br/>
               
-              <label for="discount">
+              <label for="discountAmt">
                 Discount
-                <input type="text" id="discount" value="0.00" readonly/>
+                <input type="text" id="discountAmt" value="0.00" readonly/>
               </label>
               
               <br/>
               
-              <label for="vat">
+              <label for="vatAmt">
                 VAT @ 10%
-                <input type="text" id="vat" value="0.00" readonly/>
+                <input type="text" id="vatAmt" value="0.00" readonly/>
               </label>
               
               <br/>
               
-              <label for="total">
+              <label for="totalPrice">
                 Total
-                <input type="text" id="total" name="total" value="0.00" readonly/>
+                <input type="text" id="totalPrice" name="total" value="0.00" readonly/>
               </label>
     
               <br/>
