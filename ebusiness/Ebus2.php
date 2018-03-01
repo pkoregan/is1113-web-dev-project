@@ -10,14 +10,19 @@ session_start();
         
         <title> Enter Details</title>
         
+        <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
+        
         
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script type="text/javascript"src="ebus2_validation.js"></script>
+        <script type="text/javascript" src="ebus2_validation.js"></script>
     </head>
     
-    <body bgcolor="#D5D8DC">
+    <body>
         <?php include_once("../includes/navbar.html") ?>
+        
+        <br/>
+    <br/>
         
         <h4>Please enter your payment details.</h4>
 

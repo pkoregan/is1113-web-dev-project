@@ -22,9 +22,9 @@ if(document.getElementById('salesforce').checked) {
 calcDisVatTotal(argSubTotal);
 }
 
-/*global argSubTotal*/
+
 function calcDisVatTotal(parmSubTotal){
-var subtotal = parmSubTotal
+var subtotal = parmSubTotal;
 var discountAmt;
 var vatAmt;
 var totalPrice;

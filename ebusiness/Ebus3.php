@@ -7,9 +7,16 @@ session_start();
     
     <head>
         <title>RECEIPT</title>
+        
+        <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
+        
     </head>
-    <body bgcolor="#D5D8DC">
+    <body>
         <?php include_once("../includes/navbar.html") ?>
+        
+        <br/>
+    <br/>
+        
         <h4>RECEIPT</h4>
         
         <?php

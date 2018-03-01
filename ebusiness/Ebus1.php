@@ -5,14 +5,18 @@
     <head>
         <title>Select Product</title>
         
+        <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
+        
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script type="text/javascript" src="cost_calc.js"></script>
 
     </head>
     
-    <body bgcolor="#D5D8DC">
+    <body>
       <?php include_once("../includes/navbar.html") ?>
+      <br/>
+    <br/>
         
             <h4>Select a Product</h4>
             
@@ -32,6 +36,8 @@
                 <input type="text" name="email" id="email"/>
               </label>
               
+              <br/>
+              <br/>
               <br/>
               
               <label for="salesforce">
@@ -96,7 +102,7 @@
             </form>
             
             <br/>
-            <button onClick="calcSub()", "calcDisVatTotal()">Calculate Cost</button>
+            <button onClick="calcSub()">Calculate Cost</button>
             <a role="button" href="Ebus1.php">Clear Choice</a>
     
     </body>
