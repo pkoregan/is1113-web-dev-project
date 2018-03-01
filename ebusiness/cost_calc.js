@@ -16,15 +16,35 @@ if(document.getElementById('salesforce').checked) {
     else if(document.getElementById('cloud9').checked) {
         argSubTotal = 200;
     }
+    
 
-display(argSubTotal);
+
+calcDisVatTotal(argSubTotal);
 }
 
-function display(parm1){
+/*global argSubTotal*/
+function calcDisVatTotal(argSubTotal){
+var subtotal = argSubTotal
+var discount;
+var vat;
+var total;
+
+discount = (subtotal*0.05);
+
+vat = ((subtotal - discount)*0.1);
+
+total = (subtotal - discount + vat);
+
+display(argSubTotal, discount, vat, total);
+
+}
+
+function display(parm1, parm2, parm3, parm4){
     
     document.getElementById("subtotal").value = parm1;
-    document.getElementById("total").value = parm1;
-    
+    document.getElementById("discount").value = parm2;
+    document.getElementById("vat").value = parm3;
+    document.getElementById("total").value = parm4;
     enablebtnProceed();
 }
 
