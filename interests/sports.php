@@ -13,6 +13,8 @@
         </head>
     <body>
         <?php include_once("../includes/navbar.html") ?>
+        <br/>
+    <br/>
         <h1 class="mainheading">Sports</h1>
         
         <p><strong>Favourite Sport:</strong>Soccer</p>
