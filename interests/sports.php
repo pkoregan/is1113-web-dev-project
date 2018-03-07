@@ -3,6 +3,8 @@
 <html>
     
     <head>
+        <meta charset="utf-8"/>
+        
         <title>Sports</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
     

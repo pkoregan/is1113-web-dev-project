@@ -3,6 +3,8 @@
 <html>
     
     <head>
+        <meta charset="utf-8"/>
+        
         <title>Work</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
     

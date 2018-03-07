@@ -5,6 +5,7 @@
     
         
         <head>
+            <meta charset="utf-8"/>
             
         <title>E-Business</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
