@@ -1,5 +1,6 @@
 /* global $ */
 
+//funtion to validate pin
 function validateDetails(){
     
     var pin;

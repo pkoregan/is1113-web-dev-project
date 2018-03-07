@@ -1,5 +1,6 @@
 /*global $*/
 
+//function to calculate subtotal
 function calcSub(){
     
 var argSubTotal;
@@ -17,12 +18,11 @@ if(document.getElementById('salesforce').checked) {
         argSubTotal = 200;
     }
     
-
-
 calcDisVatTotal(argSubTotal);
 }
 
 
+//calculate dicount, vat and total
 function calcDisVatTotal(parmSubTotal){
 var subtotal = parmSubTotal;
 var discountAmt;
@@ -39,6 +39,7 @@ display(parmSubTotal, discountAmt, vatAmt, totalPrice);
 
 }
 
+//displaying data in relevant fields
 function display(parm1, parm2, parm3, parm4){
     
     document.getElementById("subtotal").value = parm1;

@@ -10,6 +10,7 @@
         <title>E-Business</title>
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
         
+        <!--Add Navbar-->
         <?php include_once("../includes/navbar.html") ?>
     
         <h1 class="mainheading">E-Business</h1>

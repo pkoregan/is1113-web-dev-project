@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
   
     <head>
@@ -16,14 +15,16 @@
     </head>
     
     <body>
+      <!--Add Navbar-->
       <?php include_once("../includes/navbar.html") ?>
         
             <h4>Select a Product</h4>
             
             <br/>
-            
+            <!--post variables to ebus3-->
             <form method="POST" action="Ebus2.php">
               
+              <!--set up textboxes and labels for data input-->
               <label for="name">
                 Name:
                 <input type="text" name="name" id="name"/>

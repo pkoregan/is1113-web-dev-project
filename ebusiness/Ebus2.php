@@ -20,6 +20,7 @@ session_start();
     </head>
     
     <body>
+        <!--Add Navbar-->
         <?php include_once("../includes/navbar.html") ?>
         
         <h4>Please enter your payment details.</h4>

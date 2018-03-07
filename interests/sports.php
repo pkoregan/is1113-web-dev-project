@@ -21,6 +21,6 @@
         <p><strong>Favourite Sport:</strong>Soccer</p>
         <p><strong>Training:</strong>Tuesday</p>
         
-        <a href="travel.php" class="btn btn-dark">Next</a>
+        <a href="travel.php" class="btn btn-dark">Travel</a>
     </body>
 </html>
