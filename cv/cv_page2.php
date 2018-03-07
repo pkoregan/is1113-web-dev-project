@@ -16,8 +16,7 @@
     </head>
     <body>
         <?php include_once("../includes/navbar.html") ?>
-        <br/>
-    <br/>
+        
         <h1 class="mainheading">Educational Details</h1>
         
         <p><strong>College:</strong>UCC</p>

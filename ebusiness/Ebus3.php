@@ -16,9 +16,6 @@ session_start();
     <body>
         <?php include_once("../includes/navbar.html") ?>
         
-        <br/>
-    <br/>
-        
         <h4>RECEIPT</h4>
         
         

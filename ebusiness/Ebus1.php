@@ -17,8 +17,6 @@
     
     <body>
       <?php include_once("../includes/navbar.html") ?>
-      <br/>
-    <br/>
         
             <h4>Select a Product</h4>
             
@@ -105,6 +103,7 @@
             
             <br/>
             <button onClick="calcSub()">Calculate Cost</button>
+            <br/>
             <a role="button" href="Ebus1.php">Clear Choice</a>
     
     </body>

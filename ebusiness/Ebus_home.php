@@ -11,8 +11,7 @@
         <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
         
         <?php include_once("../includes/navbar.html") ?>
-    <br/>
-    <br/>
+    
         <h1 class="mainheading">E-Business</h1>
 
             

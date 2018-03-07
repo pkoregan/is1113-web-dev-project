@@ -22,9 +22,6 @@ session_start();
     <body>
         <?php include_once("../includes/navbar.html") ?>
         
-        <br/>
-    <br/>
-        
         <h4>Please enter your payment details.</h4>
 
             

@@ -15,8 +15,7 @@
     </head>
     <body>
         <?php include_once("../includes/navbar.html") ?>
-        <br/>
-    <br/>
+        
         <h1 class="mainheading">Personal Details</h1>
         
         <p><strong>Name: </strong>Paul O'Regan</p>
