@@ -29,8 +29,9 @@
         </script>
     
     </head>
+    
     <body>
-       <?php include_once("../includes/navbar.html") ?> 
+        <?php include_once("../includes/navbar.html") ?>
        <div id="pagepiling">
 	<div class="section" id="section1">London</div>
 	<div class="section" id="section2">Madrid</div>
