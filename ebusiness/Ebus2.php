@@ -11,7 +11,7 @@ session_start();
         
         <title> Enter Details</title>
         
-        <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="../cloud.css" type="text/css" />
         
         
         <!--jQuery-->

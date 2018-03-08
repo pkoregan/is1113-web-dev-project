@@ -7,19 +7,17 @@
         <head>
             <meta charset="utf-8"/>
             
-        <title>Cloud Services</title>
-        <link rel="stylesheet" href="../mystylesheet.css" type="text/css" />
+        <title>GoCloud LTD</title>
+        <link rel="stylesheet" href="../cloud.css" type="text/css" />
         
         <!--Add Navbar-->
         <?php include_once("../includes/navbar.html") ?>
     
-        <h1 class="mainheading">Cloud Services</h1>
+        <h1 class="mainheading">Welcome to GoCloud LTD</h1>
 
-           
-        <a href="Ebus1.php">Store</a>
-        <br/>
         <a href="about_cloud.php">About Cloud</a>
-        
+        <br/>
+        <a href="Ebus1.php">Products</a>
         
     </body>
 </html>
