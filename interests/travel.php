@@ -33,10 +33,10 @@
     <body>
         <?php include_once("../includes/navbar.html") ?>
        <div id="pagepiling">
-	<div class="section" id="section1">London</div>
-	<div class="section" id="section2">Madrid</div>
+	<div class="section" id="section1">Most travelled to: London</div>
+	<div class="section" id="section2">Want to go to: Madrid</div>
 	<div class="section" id="section3">
-	    Stay in Ireland
+	    In the future would like to: Settle in Ireland
 	    <br/>
 	    <a href="cloud.php" class="btn btn-success">Cloud Services</a>
 	    <br/>

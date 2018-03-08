@@ -1,14 +1,27 @@
 /*styling page piling*/
 #section1{
-    background-color: rgb(238, 0, 90);
+    background-image: url("../images/london.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 #section2{
-    background-color: rgb(44, 62, 80);
+    background-image: url("../images/madrid.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 #section3{
     background-image: url("../images/shamrock.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 .section{
     text-align: center;
+    font-size: 50px;
     color: white;
 }
