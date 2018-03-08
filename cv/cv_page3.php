@@ -23,7 +23,7 @@
         <p><strong>Company:</strong>Spar</p>
         <p><strong>Job Title:</strong>Tills</p>
         <p><strong>Year:</strong>2015-Present</p>
-        <img src="../images/spar_logo.png" alt="Spar Logo" style="width:250px;height:50px;"></img>
+        <img src="../images/spar_logo.png" alt="Spar Logo" style="width:250px;height:50px;">
         
         <br/>
         <br/>
